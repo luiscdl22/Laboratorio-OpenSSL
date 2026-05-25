@@ -29,6 +29,9 @@ Si tienes problemas con la ruta de `openssl.cnf`, agrega esta línea en el array
 ```php
 'config' => 'C:\\wamp64\\bin\\php\\php8.x.x\\extras\\ssl\\openssl.cnf'
 ```
-
+## Estudiante
+Luis De Leon
+## Grupo
+1GS133
 ## Docente
 Ing. Irina Fong - Facultad de Ingeniería en Sistemas Computacionales, UTP
